@@ -1,7 +1,7 @@
 ---
 serverinventory:
-  - configuration_item: 'Active update'
-    environment: 'Development'
+  - configuration_item: 'Action Tracker'
+    environment: '.Bart Hachey'
     assignment_group: 'CAB Approval'
     assigned_To: 'Luke Wilson'
     change_coordinator: 'JP'
@@ -14,8 +14,8 @@ serverinventory:
     test_plan: 'pfa'
     Technical_Approver: 'JP'
     Director_Approver: 'Bart Hachey'
-    Sr_Director_Approver: 'Bart Hachey'
- - configuration_item: 'Active Update'
+    Sr_Director_Approver: '.Devon Samrah'
+ - configuration_item: 'Acrobat Reader'
     environment: 'Development'
     assignment_group: 'CAB Approval'
     assigned_To: 'Luke Wilson'
