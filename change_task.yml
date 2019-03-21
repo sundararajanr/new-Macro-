@@ -7,18 +7,15 @@
     state: present
     table: change_request
     data:
-      requested_by: "{{item.Requested_By}}"
-      u_environment: "{{item.Environment}}"
-      category: "{{item.Category}}"
       cmdb_ci: "{{item.CI}}"
-      Type: "{{item.Patching_Type}}"
+      u_environment: "{{item.Environment}}"
       assignment_group: "{{item.Assigment_Group}}"
       assigned_to: "{{item.Assigned_To}}"
       u_change_coordinator: "{{item.Change_Coordinator}}"
-      short_description: "{{item.Short_Description}}"
-      description: "{{item.Description}}"
       start_date: "{{item.Planned_Start_date}}"
       end_date: "{{item.Planned_End_date}}"
+      short_description: "{{item.Short_Description}}"
+      description: "{{item.Description}}"
       implementation_plan: "{{item.Implemention_Plan}}"
       backout_plan: "{{item.BackoutPlan}}"
       test_plan: "{{item.ValidationPlan}}"
