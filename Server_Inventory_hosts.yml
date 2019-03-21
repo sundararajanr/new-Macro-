@@ -11,8 +11,8 @@ serverinventory:
     description: 'Development  |Linux Patching'
     implementation_plan: 'pfa'
     backout_plan: 'PFA'
-    test_plan: 'pfa"
-    Technical_Approver: 'Bart Hachey'
+    test_plan: 'pfa'
+    Technical_Approver: 'JP'
     Director_Approver: 'Bart Hachey'
     Sr_Director_Approver:  'Bart Hachey'
  - configuration_item: 'Active Update'
@@ -26,8 +26,8 @@ serverinventory:
     description: 'Development  |Linux Patching'
     implementation_plan: 'pfa'
     backout_plan: 'PFA'
-    test_plan: 'pfa"
-    Technical_Approver: 'Bart Hachey'
+    test_plan: 'pfa'
+    Technical_Approver: 'JP'
     Director_Approver: 'Bart Hachey'
     Sr_Director_Approver:  'Bart Hachey'
     
