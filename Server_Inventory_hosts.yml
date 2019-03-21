@@ -12,7 +12,7 @@ serverinventory:
     implementation_plan: 'pfa'
     backout_plan: 'PFA'
     test_plan: 'pfa"
-    Technical_Approver: 'Bart Hachey'
+    Technical_Approver: '.Bart Hachey'
     Director_Approver: 'Bart Hachey'
     Sr_Director_Approver:  'Bart Hachey'
     
