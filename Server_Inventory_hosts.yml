@@ -1,6 +1,6 @@
 ---
 serverinventory:
-  - configuration_item: 'Active Update'
+  - configuration_item: 'Active update'
     environment: 'Development'
     assignment_group: 'CAB Approval'
     assigned_To: 'Luke Wilson'
@@ -28,6 +28,6 @@ serverinventory:
     backout_plan: 'PFA'
     test_plan: 'pfa'
     Technical_Approver: 'JP'
-    Director_Approver: 'Bart Hachey'
-    Sr_Director_Approver:  'Bart Hachey'
+    Director_Approver: 'jp'
+    Sr_Director_Approver: 'JP'
     
