@@ -14,7 +14,7 @@ serverinventory:
     test_plan: 'pfa'
     Technical_Approver: 'JP'
     Director_Approver: 'Bart Hachey'
-    Sr_Director_Approver:  'Bart Hachey'
+    Sr_Director_Approver: 'Bart Hachey'
  - configuration_item: 'Active Update'
     environment: 'Development'
     assignment_group: 'CAB Approval'
